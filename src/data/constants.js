@@ -16,7 +16,6 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/manishjadhav9/",
   twitter: "https://twitter.com/manishjadhav28",
   insta: "https://www.instagram.com/maanishjadhav_/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
 
 export const skills = [
@@ -447,8 +446,8 @@ export const projects = [
       },
       {
         name: "Sejal Pawar",
-        img: "https://avatars.githubusercontent.com/u/115545313?v=4",
-        // linkedin: "https://www.linkedin.com/in/sejal/",
+        img: "https://media.licdn.com/dms/image/D4D03AQFU5GBq4pFNLA/profile-displayphoto-shrink_400_400/0/1712429878936?e=1718841600&v=beta&t=ZSwK9GUW4NMyuhMkmyqONRLs3oJhQdaGu4kXZ-zvDQ8",
+        linkedin: "https://www.linkedin.com/in/sejal-pawar-9a370a2bb/",
         // github: "https://github.com/sejal",
       },
       {
