@@ -446,7 +446,7 @@ export const projects = [
       },
       {
         name: "Sejal Pawar",
-        img: "https://media.licdn.com/dms/image/D4D03AQFU5GBq4pFNLA/profile-displayphoto-shrink_400_400/0/1712429878936?e=1718841600&v=beta&t=ZSwK9GUW4NMyuhMkmyqONRLs3oJhQdaGu4kXZ-zvDQ8",
+        img: "https://avatars.githubusercontent.com/u/115545313?v=4",
         linkedin: "https://www.linkedin.com/in/sejal-pawar-9a370a2bb/",
         // github: "https://github.com/sejal",
       },
