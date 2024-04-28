@@ -43,6 +43,14 @@ export const skills = [
       //     "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
       // },
       {
+        name: "TypeScript",
+        image: "https://imgs.search.brave.com/2O0krIPVZJYFPMD481a_-7ucEnM1QVaRjZg24g7_O48/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzRjL1R5/cGVzY3JpcHRfbG9n/b18yMDIwLnN2Zy8y/MjBweC1UeXBlc2Ny/aXB0X2xvZ29fMjAy/MC5zdmcucG5n",
+      },
+      {
+        name: "NextJS",
+        image: "https://imgs.search.brave.com/UZlZ8gu_YEnD_mHfNTIUwTJbcKYzqkvjbHjBOlOWhzA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ExYWM3ZjNi/YmYyMjJmZGJhZGE5/Y2JjYjgxZmY1YmM1/Y2M0YzRiNTFhMWQ4/N2ZiMzM4NGZmNThi/OWIwY2IzYS9uZXh0/anMub3JnLw",
+      },
+      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
