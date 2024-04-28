@@ -16,6 +16,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/manishjadhav9/",
   twitter: "https://twitter.com/manishjadhav28",
   insta: "https://www.instagram.com/maanishjadhav_/",
+  blogs: "https://manishjadhav.hashnode.dev/",
 };
 
 export const skills = [

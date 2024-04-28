@@ -186,6 +186,12 @@ const Navbar = () => {
           </MobileMenu>
         )}
 
+<ButtonContainer>
+          <GithubButton href={Bio.blogs} target="_Blank">
+            My Blogs
+          </GithubButton>
+        </ButtonContainer>
+
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
             Github Profile
