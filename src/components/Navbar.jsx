@@ -154,6 +154,7 @@ const Navbar = () => {
           {/* <NavLink href="#Experience">Experience</NavLink> */}
           <NavLink href="#Projects">Projects</NavLink>
           <NavLink href="#Education">Education</NavLink>
+          <NavLink href="https://manishjadhav.hashnode.dev/">Blogs</NavLink>
         </NavItems>
 
         {isOpen && (
@@ -173,6 +174,9 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
               Education
             </NavLink>
+            <NavLink onClick={() => setIsOpen(!isOpen)} href="Bio.blogs">
+              Blogs
+            </NavLink>
             <GithubButton
               href={Bio.github}
               target="_Blank"
@@ -185,12 +189,6 @@ const Navbar = () => {
             </GithubButton>
           </MobileMenu>
         )}
-
-<ButtonContainer>
-          <GithubButton href={Bio.blogs} target="_Blank">
-            My Blogs
-          </GithubButton>
-        </ButtonContainer>
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
