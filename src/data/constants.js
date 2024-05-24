@@ -12,7 +12,7 @@ export const Bio = {
     "Welcome to my portfolio! I'm a dedicated computer engineering student with a passion for learning and delivering high-quality results. With a positive attitude and a growth mindset, I'm ready to make a meaningful contribution and tackle new challenges head-on.",
   github: "https://github.com/manishjadhav9",
   resume:
-    "https://drive.google.com/file/d/1-8SYstHv3eSMDFJjLrgmH5yqzeKLZZag/view?usp=sharing",
+    "https://drive.google.com/file/d/1M4W1zeoTgtygJNfA4ThuWFiGOMc8WLxk/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/manishjadhav9/",
   twitter: "https://twitter.com/manishjadhav28",
   insta: "https://www.instagram.com/maanishjadhav_/",
@@ -461,7 +461,7 @@ export const projects = [
       },
       {
         name: "Shruti Gurav",
-        img: "https://avatars.githubusercontent.com/u/148791631?v=4",
+        img: "https://avatars.githubusercontent.com/u/115545313?v=4",
         // linkedin: "https://www.linkedin.com/in/shruti/",
         // github: "https://github.com/shruti",
       },
@@ -469,15 +469,15 @@ export const projects = [
   },
   {
     id: 4,
-    title: "J.A.R.V.I.S. - The Virutal Assistant",
-    date: "Feb 2024 - Present",
+    title: "JARVIS - The Virutal Assistant",
+    date: "Jan 2024 - May 2024",
     description:
-      "The J.A.R.V.I.S project is a Second Year Mini Project in progress, focusing on creating a virtual assistant for seamless communication in Hindi and English. It integrates language processing algorithms and includes a clap-triggered wake-up feature for enhanced user interaction. The project highlights the user's dedication to advancing communication technology and their proficiency in AI and language processing.",
+      "The JARVIS project is a Second Year Mini Project in progress, focusing on creating a virtual assistant for seamless communication in Hindi and English. It integrates language processing algorithms and includes a clap-triggered wake-up feature for enhanced user interaction. The project highlights the user's dedication to advancing communication technology and their proficiency in AI and language processing.",
     image:
-      "https://imgs.search.brave.com/Jr7ohz8FNJgmXbS1DkHAqRVBpAStejmhSgqKTMCkpuE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YyLzUy/LzRjL2YyNTI0Yzg0/YTUxZGUwZjk5ZGI4/NGQ1OGJkNTljYmJl/LmpwZw",
+      "https://private-user-images.githubusercontent.com/96580022/329167134-84f911eb-d126-47ae-8e59-3bcb82251de6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1Njg5NzIsIm5iZiI6MTcxNjU2ODY3MiwicGF0aCI6Ii85NjU4MDAyMi8zMjkxNjcxMzQtODRmOTExZWItZDEyNi00N2FlLThlNTktM2JjYjgyMjUxZGU2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI0VDE2Mzc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0ZDk2NGU2ZmFkNTRkZDZjNTAzM2QyMmE3YmVhMDg4NmUzMmQ5ZmUwNzVkZGM0NTBlZTc5ZDAxZDc4M2Q4MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2Ntxd7c5LfD__f5FiZifmBuUUAOeWrAyobXgSmYncLE",
     tags: ["Python", "Keras", "TensorFlow"],
     category: "machine learning",
-    github: "https://github.com/manishjadhav9/",
+    github: "https://github.com/JARVIS-VA",
     member: [
           {
             name: "Manish Jadhav",
