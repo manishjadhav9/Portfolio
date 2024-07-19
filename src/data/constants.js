@@ -1,3 +1,12 @@
+import {
+  het,
+  spit,
+  dbatu,
+  iope,
+  jarvis,
+
+} from "../assets";
+
 export const Bio = {
   name: "Manish Jadhav",
   roles: [
@@ -28,11 +37,11 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
-      {
-        name: "Redux",
-        image:
-          "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-      },
+      // {
+      //   name: "Redux",
+      //   image:
+      //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+      // },
       // {
       //   name: "Next Js",
       //   image:
@@ -401,29 +410,29 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://imgs.search.brave.com/oh-GsrTBMiqmf8RXHLs6WglYS4ncadeTJio5JFb-qM4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/Y29sbGVnZXByYXZl/c2guY29tLzIwMTgv/MTEvU1BJVC1NdW1i/YWktTG9nby5wbmc",
+    img: spit,
     school: "Bharatiya Vidya Bhavan's, Sardar Patel Institue of Technology, Andheri",
     date: "Aug 2024 - Present",
-    // grade: "8.41 ",
-    desc: "I am currently pursuing a Bachelor's in Technology (B.Tech) degree in Computer Engineering at Bharatiya Vidya Bhavan's, Sardar Patel Institue of Technology, Andheri. I have completed 1 semester. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. .",
+    grade: "TBD",
+    // desc: "I am currently pursuing a Bachelor's in Technology (B.Tech) degree in Computer Engineering at Bharatiya Vidya Bhavan's, Sardar Patel Institue of Technology, Andheri. I have completed 1 semester. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. .",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "https://imgs.search.brave.com/2giacFJO-s8IBw4r0F0T5m2lKkzsWz9XQJ4nVAy83bg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kYmF0/dS5hYy5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8wOC9C/YXR1LUxvZ28tVHJh/bnNwZXJlbnQtTmV3/LnBuZw",
+    img: dbatu,
     school: "Dr. BabaSaheb Ambedkar Technological University, Institute of Petrochemical Engineering, Lonere",
     date: "Jan 2021 - June 2023",
     grade: "93.9%",
-    desc: "I completed my Diploma in Information Technology at Dr. BabaSaheb Ambedkar Technological University, Institute of Petrochemical Engineering, Lonere.",
+    // desc: "I completed my Diploma in Information Technology at Dr. BabaSaheb Ambedkar Technological University, Institute of Petrochemical Engineering, Lonere.",
     degree: "Diploma in Information Technology",
   },
   {
     id: 2,
-    img: "https://github.com/manishjadhav9/Certificates/blob/main/het.png?raw=true",
+    img: het,
     school: "Hirwal Education Trust's, Gurukul Academy, Mahad",
     date: "June 2010 - June 2020",
     grade: "82.4%",
-    desc: "I completed my class 10 education at Hirwal Education Trust's, Gurukul Academy, Mahad",
+    // desc: "I completed my class 10 education at Hirwal Education Trust's, Gurukul Academy, Mahad",
     degree: "SSC(X)",
   },
 ];
@@ -436,7 +445,7 @@ export const projects = [
     description:
       " Created as a College event website as Final Year Project. Website was developed to enhanced the accessibility and engagement of college events for both administrators and users. It is like a centralized platform for college event information and imagery",
     image:
-      "https://github.com/manishjadhav9/IOPE-Diaries/assets/96580022/3bbc1fcc-f6e7-48a2-a028-d8bdfedd034c",
+      iope,
     tags: [
       "HTML",
       "CSS",
@@ -473,8 +482,7 @@ export const projects = [
     date: "Jan 2024 - May 2024",
     description:
       "The JARVIS project is a Second Year Mini Project in progress, focusing on creating a virtual assistant for seamless communication in Hindi and English. It integrates language processing algorithms and includes a clap-triggered wake-up feature for enhanced user interaction. The project highlights the user's dedication to advancing communication technology and their proficiency in AI and language processing.",
-    image:
-      "https://private-user-images.githubusercontent.com/96580022/329167134-84f911eb-d126-47ae-8e59-3bcb82251de6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1NzA2OTEsIm5iZiI6MTcxNjU3MDM5MSwicGF0aCI6Ii85NjU4MDAyMi8zMjkxNjcxMzQtODRmOTExZWItZDEyNi00N2FlLThlNTktM2JjYjgyMjUxZGU2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI0VDE3MDYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNGQ4M2M2OWJkOTBlYjYwYTlhYWZjYTE5ODQ1MDNkZDFlMTM0MzY1YTYzYmQxZWU4Y2RlNjQ4ZWQwODcxMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eu8QlHGh7lkCYP0DcXJuzptEipn3ZmaKU2iuap-4P4w",
+    image: jarvis,
     tags: ["Python", "Keras", "TensorFlow"],
     category: "machine learning",
     github: "https://github.com/JARVIS-VA",
