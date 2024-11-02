@@ -4,6 +4,7 @@ import {
   dbatu,
   iope,
   jarvis,
+  lamaisonblanche,
   sejalp,
   shrutig,
 } from "../assets";
@@ -12,8 +13,7 @@ export const Bio = {
   name: "Manish Jadhav",
   roles: [
     "Full Stack Developer",
-    "Cyber Security enthusiast",
-    "AI and ML Enthusiast",
+    "ML Developer",
     "Open Source Contributor",
     "UI/UX Designer",
     "Programmer",
@@ -441,6 +441,45 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "La Maison Blanche - Resort Booking Webpage",
+    date: "Sept 2024 - Oct 2024",
+    description:
+      " La Maison Blanche is a modern resort booking platform designed to enhance user experience with seamless navigation and secure payment integration. Built with a scalable architecture, it offers efficient booking management and personalized features for vacation planning.",
+    image:
+      lamaisonblanche,
+    tags: [
+      "NextJS",
+      "TailwindCSS",
+      "Typescript",
+      "ReactJs",
+      "Sanity.io",
+    ],
+    category: "web app",
+    github: "https://github.com/manishjadhav9/hotel-management",
+    webapp: "https://lamaisonblanche.vercel.app",
+    member: [
+      {
+        name: "Manish Jadhav",
+        img: "https://avatars.githubusercontent.com/u/96580022?v=4",
+        linkedin: "https://www.linkedin.com/in/manishjadhav9",
+        github: "https://github.com/manishjadhav9/",
+      },
+      {
+        name: "Mayur Solankar",
+        img: "https://avatars.githubusercontent.com/u/148791631?v=4",
+        linkedin: "https://www.linkedin.com/in/mayursolankar/",
+        github: "https://github.com/Mayur-Solankar",
+      },
+      {
+        name: "Vishesh Savani",
+        img: "https://avatars.githubusercontent.com/u/140497624?v=4",
+        linkedin: "https://www.linkedin.com/in/visheshsavani86/",
+        github: "https://github.com/visheshsavani",
+      },
+    ],
+  },
+  {
+    id: 0,
     title: "IOPE Diaries",
     date: "Feb 2023 - May 2023",
     description:
@@ -534,19 +573,19 @@ export const projects = [
     github: "https://github.com/manishjadhav9/calculator_using_javascript",
     // webapp: "https://rishav-react-todo.netlify.app/",
   },
-  {
-    id: 3,
-    title: "Netflix Clone",
-    date: "Nov 2023",
-    description:
-      "This project is a Netflix clone built using HTML, JavaScript (ReactJS), Tailwind CSS, and Firebase. The goal of this project is to recreate the Netflix user interface and functionality, providing users with a familiar and enjoyable streaming experience.",
-    image:
-      "https://imgs.search.brave.com/S_FdUC7P0znM-T2KyXpDEqBYQtkugcUs6ZN7c0Gn4-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUwNjMz/NDIucG5n",
-    tags: ["HTML", "Javascript", "TailwindCSS", "Firebase"],
-    category: "web app",
-    github: "https://github.com/manishjadhav9/netflix-react-tailwind",
-    // webapp: "https://rishav-react-todo.netlify.app/",
-  },
+  // {
+  //   id: 3,
+  //   title: "Netflix Clone",
+  //   date: "Nov 2023",
+  //   description:
+  //     "This project is a Netflix clone built using HTML, JavaScript (ReactJS), Tailwind CSS, and Firebase. The goal of this project is to recreate the Netflix user interface and functionality, providing users with a familiar and enjoyable streaming experience.",
+  //   image:
+  //     "https://imgs.search.brave.com/S_FdUC7P0znM-T2KyXpDEqBYQtkugcUs6ZN7c0Gn4-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUwNjMz/NDIucG5n",
+  //   tags: ["HTML", "Javascript", "TailwindCSS", "Firebase"],
+  //   category: "web app",
+  //   github: "https://github.com/manishjadhav9/netflix-react-tailwind",
+  //   // webapp: "https://rishav-react-todo.netlify.app/",
+  // },
   {
     id: 4,
     title: "Amazon Clone Frontend",

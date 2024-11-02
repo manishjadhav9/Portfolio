@@ -6,6 +6,7 @@ import iope from "./Projects/iopediaries.png";
 import jarvis from "./Projects/jarvis.jpg";
 import sejalp from "./people/sejalp.jpeg";
 import shrutig from "./people/shrutig.jpg";
+import lamaisonblanche from "./Projects/hotel.png";
 
 
 export {
@@ -14,6 +15,7 @@ export {
   het,
   iope,
   jarvis,
+  lamaisonblanche,
   sejalp,
   shrutig,
 };
