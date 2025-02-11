@@ -7,6 +7,7 @@ import jarvis from "./Projects/jarvis.jpg";
 import sejalp from "./people/sejalp.jpeg";
 import shrutig from "./people/shrutig.jpg";
 import lamaisonblanche from "./Projects/hotel.png";
+import torrent from "./Projects/torrent.png";
 
 
 export {
@@ -18,4 +19,5 @@ export {
   lamaisonblanche,
   sejalp,
   shrutig,
+  torrent,
 };

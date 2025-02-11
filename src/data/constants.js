@@ -7,6 +7,7 @@ import {
   lamaisonblanche,
   sejalp,
   shrutig,
+  torrent,
 } from "../assets";
 
 export const Bio = {
@@ -440,6 +441,40 @@ export const education = [
 
 export const projects = [
   {
+    id: 9,
+    title: "Tor-Rent: Redefining Renting with Blockchain!",
+    date: "Feb 2025",
+    description:
+      " Tor-Rent is a decentralized rental platform leveraging blockchain technology to ensure secure, tamper-proof agreements, automated payments, dispute resolution, and identity verification, integrating React, Node.js, MongoDB, Web3, Polygon Ethereum, and Metamask authentication, powered by six smart contracts for a transparent, efficient, and fraud-resistant rental ecosystem. ",
+    image:
+      torrent,
+    tags: [
+      "ReactsJS & TailwindCSS",
+      "NodeJS",
+      "MongoDB",
+      "Solidity",
+      "HardHat",
+      "Metamask",
+    ],
+    category: "blockchain app",
+    github: "https://github.com/manishjadhav9/Tor-Rent",
+    webapp: "",
+    member: [
+      {
+        name: "Manish Jadhav",
+        img: "https://avatars.githubusercontent.com/u/96580022?v=4",
+        linkedin: "https://www.linkedin.com/in/manishjadhav9",
+        github: "https://github.com/manishjadhav9/",
+      },
+      {
+        name: "Adwait Shesh",
+        img: "https://avatars.githubusercontent.com/u/157292227?v=4",
+        linkedin: "https://www.linkedin.com/in/adwait-shesh-175aa6311/",
+        github: "https://github.com/AdwaitShesh",
+      },
+    ],
+  },
+  {
     id: 0,
     title: "La Maison Blanche - Resort Booking Webpage",
     date: "Sept 2024 - Oct 2024",
@@ -586,19 +621,19 @@ export const projects = [
   //   github: "https://github.com/manishjadhav9/netflix-react-tailwind",
   //   // webapp: "https://rishav-react-todo.netlify.app/",
   // },
-  {
-    id: 4,
-    title: "Amazon Clone Frontend",
-    date: "Jan 2024",
-    description:
-      " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
-    image:
-      "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
-    tags: ["HTML", "CSS", "Javascript"],
-    category: "web app",
-    github: "https://github.com/manishjadhav9/FrontEnd-Basics/tree/main/Amazon__Clone",
-    // webapp: "https://rishav-react-todo.netlify.app/",
-  },
+  // {
+  //   id: 4,
+  //   title: "Amazon Clone Frontend",
+  //   date: "Jan 2024",
+  //   description:
+  //     " This Amazon frontend clone aims to replicate the appearance and basic functionality of the Amazon website, focusing on users who primarily access the internet through long screen devices such as laptops and desktop computers. Unlike the original Amazon site, which is responsive and adapts to various screen sizes, this clone is optimized for larger screens and does not adjust its layout for smaller devices like smartphones and tablets.",
+  //   image:
+  //     "https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994",
+  //   tags: ["HTML", "CSS", "Javascript"],
+  //   category: "web app",
+  //   github: "https://github.com/manishjadhav9/FrontEnd-Basics/tree/main/Amazon__Clone",
+  //   // webapp: "https://rishav-react-todo.netlify.app/",
+  // },
 
  
 

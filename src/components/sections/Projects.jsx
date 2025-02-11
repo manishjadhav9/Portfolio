@@ -121,12 +121,12 @@ const Projects = ({ openModal, setOpenModal }) => {
             WEB APP"S
           </ToggleButton>
           <Divider />
-          {/* <ToggleButton
-            active={toggle === "android app"}
-            onClick={() => setToggle("android app")}
+          <ToggleButton
+            active={toggle === "blockchain app"}
+            onClick={() => setToggle("blockchain app")}
           >
-            ANDROID APP'S
-          </ToggleButton> */}
+            BLOCKCHAIN
+          </ToggleButton>
           <Divider />
           <ToggleButton
             active={toggle === "machine learning"}
