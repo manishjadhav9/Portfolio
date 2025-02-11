@@ -474,45 +474,7 @@ export const projects = [
       },
     ],
   },
-  {
-    id: 0,
-    title: "La Maison Blanche - Resort Booking Webpage",
-    date: "Sept 2024 - Oct 2024",
-    description:
-      " La Maison Blanche is a modern resort booking platform designed to enhance user experience with seamless navigation and secure payment integration. Built with a scalable architecture, it offers efficient booking management and personalized features for vacation planning.",
-    image:
-      lamaisonblanche,
-    tags: [
-      "NextJS",
-      "TailwindCSS",
-      "Typescript",
-      "ReactJs",
-      "Sanity.io",
-    ],
-    category: "web app",
-    github: "https://github.com/manishjadhav9/hotel-management",
-    webapp: "https://lamaisonblanche.vercel.app",
-    member: [
-      {
-        name: "Manish Jadhav",
-        img: "https://avatars.githubusercontent.com/u/96580022?v=4",
-        linkedin: "https://www.linkedin.com/in/manishjadhav9",
-        github: "https://github.com/manishjadhav9/",
-      },
-      {
-        name: "Mayur Solankar",
-        img: "https://avatars.githubusercontent.com/u/148791631?v=4",
-        linkedin: "https://www.linkedin.com/in/mayursolankar/",
-        github: "https://github.com/Mayur-Solankar",
-      },
-      {
-        name: "Vishesh Savani",
-        img: "https://avatars.githubusercontent.com/u/140497624?v=4",
-        linkedin: "https://www.linkedin.com/in/visheshsavani86/",
-        github: "https://github.com/visheshsavani",
-      },
-    ],
-  },
+  
   {
     id: 0,
     title: "IOPE Diaries",
@@ -581,6 +543,45 @@ export const projects = [
             github: "https://github.com/visheshsavani",
           },
         ],
+  },
+  {
+    id: 0,
+    title: "La Maison Blanche - Resort Booking Webpage",
+    date: "Sept 2024 - Oct 2024",
+    description:
+      " La Maison Blanche is a modern resort booking platform designed to enhance user experience with seamless navigation and secure payment integration. Built with a scalable architecture, it offers efficient booking management and personalized features for vacation planning.",
+    image:
+      lamaisonblanche,
+    tags: [
+      "NextJS",
+      "TailwindCSS",
+      "Typescript",
+      "ReactJs",
+      "Sanity.io",
+    ],
+    category: "web app",
+    github: "https://github.com/manishjadhav9/hotel-management",
+    webapp: "https://lamaisonblanche.vercel.app",
+    member: [
+      {
+        name: "Manish Jadhav",
+        img: "https://avatars.githubusercontent.com/u/96580022?v=4",
+        linkedin: "https://www.linkedin.com/in/manishjadhav9",
+        github: "https://github.com/manishjadhav9/",
+      },
+      {
+        name: "Mayur Solankar",
+        img: "https://avatars.githubusercontent.com/u/148791631?v=4",
+        linkedin: "https://www.linkedin.com/in/mayursolankar/",
+        github: "https://github.com/Mayur-Solankar",
+      },
+      {
+        name: "Vishesh Savani",
+        img: "https://avatars.githubusercontent.com/u/140497624?v=4",
+        linkedin: "https://www.linkedin.com/in/visheshsavani86/",
+        github: "https://github.com/visheshsavani",
+      },
+    ],
   },
   {
     id: 1,
